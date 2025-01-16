@@ -1,0 +1,45 @@
+
+a
+{
+    color:white;
+    border-width: 5px;
+    border:solid;
+    text-decoration: none;
+    padding:7px;
+    border-radius: 10px;
+    border-color: rgb(255, 255, 255);
+}
+
+p
+{
+    font-size:20px;
+    margin-top:0px;
+    margin-left:10px;
+    color:white;
+
+}
+
+h1
+{
+    color:white;
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+}
+
+.first_face_image img
+{
+    margin-left:10%;
+    margin-right:20px;
+    width:25%;
+    border: solid, white;
+    border-radius:15px;
+    background-color: white;
+    float:left;
+}
+
+.border_content_creation
+{
+    padding:5px;
+    text-decoration: dotted;
+
+}

@@ -1,0 +1,14 @@
+
+h1
+{
+    color:white;
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+}
+
+img{
+    width:25%;
+    border: solid, white;
+    border-radius:15px;
+    background-color: white;
+}

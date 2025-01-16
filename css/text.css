@@ -1,0 +1,56 @@
+/* TEXT */
+
+.center
+{
+    text-align: center;
+    list-style: none;
+    margin-top: 20px;
+}
+
+a
+{
+
+    color:white;
+    font-family: arial;
+    border-width: 5px;
+    border:solid;
+    text-decoration: none;
+    padding:7px;
+    border-radius: 10px;
+    border-color: rgb(255, 255, 255);
+    
+}
+
+a:hover
+{
+
+    background-color: white;
+    color:black;
+    border-color:rgb(255, 145, 145);
+}
+
+
+h1
+{
+    color:white;
+    font-family: Arial;
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+}
+
+h3
+{
+color:white;
+font-size:18px;
+font-family: Arial;
+text-decoration: underline;
+text-decoration-thickness: 2px;
+text-underline-offset: 5px;
+
+}
+
+p
+{
+    color:white;
+    font-family: arial;
+}

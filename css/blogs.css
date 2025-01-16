@@ -1,0 +1,27 @@
+
+
+.blog_container
+{
+    margin-left: 500px;
+    padding-right:0px;
+
+    
+}
+.blog_image_container img
+{
+    float:left;
+    width:20%;
+    border: solid, white;
+    border-radius:5px;
+    margin-right:0px;
+    color:white;
+
+}
+.blog_text p
+{
+    float:left;
+    color:white;
+    margin-left: 10px;
+    margin-right:0px;
+    font-size:20px;
+}
