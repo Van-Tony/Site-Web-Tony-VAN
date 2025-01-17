@@ -43,7 +43,7 @@ function lancerBoucleDeJeu(choix)
 }
 function afficherResultat()
 {
-    let spanAffichageScore = document.querySelector(".zoneAffichageScore")
+    let spanAffichageScore = document.querySelector(".zoneAffichageScore span")
     let texteAffichageScore = `Bravo ! Votre score total est ${score} sur ${listeDeMots.length}.`
     spanAffichageScore.innerText = texteAffichageScore
     console.log("Bravo ! Votre score total est de " + score + "sur" + listeDeMots.length)
